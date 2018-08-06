@@ -5,6 +5,6 @@
 * cuda_apt (ubuntu + cuda + apt update)
 * cuda_apt_py (ubuntu + cuda + apt update + python pip)
 * dl
-* trt
+* tensorRT
 * pylint-docker
 * opencv-docker (opencv + contrib)
