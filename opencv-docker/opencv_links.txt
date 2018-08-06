@@ -1,0 +1,7 @@
+opencv
+https://github.com/opencv/opencv/archive/3.4.2.tar.gz
+
+opencv_contrib
+https://github.com/opencv/opencv_contrib/archive/3.4.2.tar.gz
+
+
