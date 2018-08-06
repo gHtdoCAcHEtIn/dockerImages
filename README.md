@@ -1,10 +1,10 @@
 # dockerImages
 
-* 0_ubuntu
-* 1_cuda
-* 2_cuda_apt
-* 3_cuda_apt_py
-* 4_dl
-* 5_trt
-* pylint-docker
-* opencv-docker
+0 ubuntu (base ubuntu image)
+1 cuda (ubuntu + cuda)
+2 cuda_apt (ubuntu + cuda + apt update)
+3 cuda_apt_py (ubuntu + cuda + apt update + python pip)
+4 dl
+5 trt
+6 pylint-docker
+7 opencv-docker (opencv + contrib)
